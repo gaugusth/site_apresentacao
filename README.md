@@ -1,4 +1,4 @@
-# 🖥️ Portfólio Pessoal — Guilherme Castilho
+# 🖥️ Portfólio — Guilherme Castilho
 
 Site pessoal desenvolvido com o objetivo de apresentar meu currículo de forma moderna e interativa. O projeto nasceu como uma iniciativa de aplicar os conhecimentos adquiridos no curso de Ciência da Computação e demonstrar minhas habilidades técnicas na prática.
 
